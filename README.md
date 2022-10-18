@@ -1,7 +1,7 @@
 # Analyze developer characteristics based on gender
 # StackoverflowSurveyInsight
 
-StackoverflowSurveyInsight is data analysis Project, this project was built with the aim of finding answers to the question: Is there a gender balance for developer characteristics?
+StackoverflowSurveyInsight is data analysis Project, this project was built with the aim of finding answers to the question: **Is there a gender balance for developer characteristics?**
 
 ## Data
 
@@ -73,6 +73,10 @@ We use the list of 5 cols in the dataset to find insight : [`Professional`, `Pro
 ### Discuss
 
 > The next question is whether the number of female developers will increase in the future? and with their capabilities, how can we attract more women to become developers? Please comment on this.
+
+### Blog
+See more analysis and discussion with me at blog:
+[**Is there a gender balance for developer characteristics?**](https://medium.com/@xuansanh96/is-there-a-gender-balance-for-developer-characteristics-e1b0af785c7d)
 
 ## License
 [MIT](https://github.com/lexuansanh)
